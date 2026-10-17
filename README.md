@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Aadesh 👋
 
-<!--
-**adeshmenkudle29/adeshmenkudle29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Electronics & Telecommunication Engineering student and developer passionate about full-stack web development, robotics, and embedded systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+- **Languages:** Java, Python, C/C++, TypeScript, JavaScript
+- **Web & Frameworks:** React, Node.js, Express, HTML5, CSS3
+- **Databases & Cloud:** Supabase, PostgreSQL, Vercel
+- **Hardware & IoT:** Arduino, Microcontrollers, Sensors
+
+---
+
+### 🚀 Projects
+- **ElectroKart** — E-commerce platform built for electronics and components.
+- **ProjectHub** — Web application platform for project collaboration.
+
+---
+
+### 📬 Connect With Me
+- **LinkedIn:** [https://www.linkedin.com/in/adesh-menkudle]
+- **Email:** adeshmenkudle1413@gmail.com
